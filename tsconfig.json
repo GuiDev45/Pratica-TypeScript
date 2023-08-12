@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // ESNext é a especificação mais recente, ou seja o EcmaScript mais novo.
+    "target": "ESNext",
+    // Basicamente é não deixar nenhum tipo de any acontecer no typescript
+    "strict": true
+  }
+}
